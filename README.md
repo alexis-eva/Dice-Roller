@@ -22,7 +22,7 @@ flags with N require a number following the flag.
 use !ad to roll no advantage while advantage or disadvantage is default.
 
 df + x #comment for fate/fudge dice.
-
+```
 ```
 > 2d20 + 5
 
