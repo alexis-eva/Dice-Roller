@@ -1,7 +1,8 @@
 # Dice-Roller
 A command line dice roller written in Python.
 
-```format: xdy + z + dw... !flags #roll comment here
+```
+format: xdy + z + dw... !flags #roll comment here
 q to quit, f for flags and formatting, ![flags] to set default flags.
 e for example inputs.
 
