@@ -20,4 +20,4 @@ flags with N require a number following the flag.
 !e6 would indicate rolls of 6 or greater explode.
 use !ad to roll no advantage while advantage or disadvantage is default.
 
-df + x #comment for fate/fudge dice.```
+df + x #comment for fate/fudge dice.
